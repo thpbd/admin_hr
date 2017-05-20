@@ -1,0 +1,62 @@
+.form-box{
+	background-color: #d4d4d9;
+	width: 400px;
+	height: auto;
+	text-align: center;
+	vertical-align: top;
+	margin-left: 25px;
+	margin-top: 25px;
+	padding: 5px 10px;
+}
+.form-group{
+	margin: 0px 30px;
+	padding: 15px;
+}
+.branchform{
+	background-color: #d4d4d9;
+	margin-top: 45px;
+	padding: 10px 10px 30px 20px;
+	margin-left: 200px;
+	width: 600px;
+}
+#table_content{
+	background-color: none;
+}
+.table-header-bottom{
+	margin: 20px;
+	background-color: #b5cfe7;
+	padding: 0px;
+	}
+.title1{
+	margin:0px;
+}
+.brbox{
+	background-color: #33414e;
+	border: 1px #000 dotted;
+	width: auto;
+	padding: 5px;
+	margin: 5px;
+	color: #fff;
+	margin-top: 30px;
+}
+.bot-text{
+	background-color: #85c875;
+	color: #fff;
+	margin-top: 5px;
+	text-align: right;
+	padding: 5px;
+}
+.table{
+	margin-top: 25px;
+	background-color: #fff;
+	}
+i.fa.fa-trash{
+	color: red;
+	font-size: 20px;
+	margin-left: 5px;
+}
+i.fa.fa-pencil-square{
+	font-size: 20px;
+	color: #000;
+	margin-left: 5px;
+}
